@@ -1,12 +1,21 @@
-## Hi there 👋 Welcome to the Geography and Planning Github Organization profile
+# Hi there 👋 Welcome to the Geography and Planning Github Organization profile
 
-🙋‍♀️ A short introduction - what is your organization all about?
+## 🙋‍♀️ Introduction
+This Github organization shares many geography and planning information and tools, which is crucial for future development.
+Some valuable sources are from online or in-person planning and programming classes.
+This organization intends to share the tools and sources to others who want to explore the geospatial or planning world.
 
-🌈 Contribution guidelines - how can the community get involved?
+##🌈 Contribution guidelines 
+We encourage all kinds of contributions and resources. Any help would be great appreciated.
+If you want to contribute or join the organization, dm the manager via email, Linkedin, or even start a pull request.
+Feel free to email the manager: zhanchaoyang69@gmail.com
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+## 👩‍💻 Useful resources 
+Right now, most of the resources is still underdeveloped.
+Many repo content are pretty good for programming beginner.
 
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 🍿 Fun facts & about the manager
+Zhanchao Yang
+Master of City Planning @ University of Pennsylvania
+Feel free to visit him [github](https://github.com/zyang91)
 
