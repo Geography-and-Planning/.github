@@ -1,4 +1,6 @@
-# Welcome to Geography and Planning Github organization profile
+# Welcome to our organization profile
+
+![](profile/Geography_Planning_Firm_Logo.jpeg)
 
 ## 🙋‍♀️ Introduction
 This Github organization shares many geography and planning information and tools, which is crucial for future development.
