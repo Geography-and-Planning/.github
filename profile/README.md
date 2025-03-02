@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to the Geography and Planning Organization!
+# Welcome to the Geography and Planning Organization!
 
 ![](Geography_Planning_Firm_Logo.jpeg)
 
