@@ -10,9 +10,20 @@ Many of the resources available have been compiled from a variety of reputable s
 Through this initiative, the organization aims to empower a growing community with the tools needed to make informed decisions, drive technological advancements, and implement data-driven solutions in urban and regional planning. By making these resources widely accessible, the organization plays a key role in promoting knowledge-sharing and strengthening the intersection of technology and planning for a smarter, more efficient future.
 
 ## 🌈 Contribution guidelines 
-We encourage all kinds of contributions and resources. Any help would be greatly appreciated.
-If you want to contribute or join the organization, dm the manager via email, Linkedin, or even start a pull request.
-Feel free to email the manager: zhanchaoyang69@gmail.com
+We greatly appreciate all forms of contributions, whether it’s sharing resources, improving existing work, or introducing new ideas. Your involvement helps us grow and enhance our projects, and we welcome contributors of all skill levels and backgrounds.
+
+### How You Can Contribute:
+- Submit Resources & Ideas – Share relevant materials, research, or suggestions that can enhance our work.
+- Improve Existing Work – Help refine documentation, fix issues, or optimize content.
+- Code Contributions – If you're a developer, consider submitting code improvements, bug fixes, or feature enhancements through pull requests.
+- Join the Organization – If you’re interested in being a more active member, we’d love to hear from you!
+
+### How To Get Started:
+- Reach Out – Connect with the manager via email or LinkedIn for guidance on how you can contribute.
+- Start a Pull Request – If you're familiar with GitHub, you can directly propose changes or new additions by opening a pull request.
+- Discuss & Collaborate – Join discussions to share insights and feedback.
+
+For any questions or to express interest in contributing, feel free to contact the manager at zhanchaoyang69@gmail.com. We look forward to working together! 🚀
 
 ## 👩‍💻 Useful resources 
 Right now, most of the resources is still underdeveloped.
