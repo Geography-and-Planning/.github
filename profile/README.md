@@ -10,7 +10,7 @@ This organization intends to share the tools and sources to others who want to e
 ## 🌈 Contribution guidelines 
 We encourage all kinds of contributions and resources. Any help would be greatly appreciated.
 If you want to contribute or join the organization, dm the manager via email, Linkedin, or even start a pull request.
-Feel free to email the manager: zhanchaoyang69@gmail.com
+Feel free to email the manager: opengeosgithub@gmail.com
 
 ## 👩‍💻 Useful resources 
 Right now, most of the resources is still underdeveloped.
