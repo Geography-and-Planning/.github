@@ -9,7 +9,7 @@ Many of the resources available have been compiled from a variety of reputable s
 
 Through this initiative, the organization aims to empower a growing community with the tools needed to make informed decisions, drive technological advancements, and implement data-driven solutions in urban and regional planning. By making these resources widely accessible, the organization plays a key role in promoting knowledge-sharing and strengthening the intersection of technology and planning for a smarter, more efficient future.
 
-## 🌈 Contribution guidelines 
+## 🌈 Contribution guidelines
 We greatly appreciate all forms of contributions, whether it’s sharing resources, improving existing work, or introducing new ideas. Your involvement helps us grow and enhance our projects, and we welcome contributors of all skill levels and backgrounds.
 
 ### How You Can Contribute:
@@ -25,7 +25,7 @@ We greatly appreciate all forms of contributions, whether it’s sharing resourc
 
 For any questions or to express interest in contributing, feel free to contact the manager at zhanchaoyang69@gmail.com. We look forward to working together! 🚀
 
-## 👩‍💻 Useful resources 
+## 👩‍💻 Useful resources
 Right now, most of the resources is still underdeveloped.
 Many repo content is pretty good for programming beginners.
 
