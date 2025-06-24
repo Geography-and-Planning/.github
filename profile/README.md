@@ -23,8 +23,7 @@ We greatly appreciate all forms of contributions, whether it’s sharing resourc
 - Start a Pull Request – If you're familiar with GitHub, you can directly propose changes or new additions by opening a pull request.
 - Discuss & Collaborate – Join discussions to share insights and feedback.
 
-For any questions or to express interest in contributing, feel free to contact the manager at zhanchaoyang69@gmail.com. We look forward to working together! 🚀
-Feel free to email the manager: opengeosgithub@gmail.com
+For any questions or to express interest in contributing, feel free to contact the manager at opengeosgithub@gmail.com. We look forward to working together! 🚀
 
 ## 👩‍💻 Useful resources
 Currently, most resources are still underdeveloped.
