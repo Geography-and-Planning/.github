@@ -3,23 +3,28 @@
 ![](Geography_Planning_Firm_Logo.jpeg)
 
 ## 🙋‍♀️ Introduction
-This Github organization shares many geography and planning information and tools, which is crucial for future development.
-Some valuable sources are from online or in-person planning and programming classes.
-This organization intends to share the tools and sources to others who want to explore the geospatial or planning world.
+This GitHub organization shares a wealth of geographical and planning information and tools, which are crucial for future development.
+Some valuable sources include online and in-person planning and programming classes.
+This organization aims to share its tools and resources with others who wish to explore the geospatial or planning world.
 
-## 🌈 Contribution guidelines 
+## 🌈 Contribution guidelines
 We encourage all kinds of contributions and resources. Any help would be greatly appreciated.
-If you want to contribute or join the organization, dm the manager via email, Linkedin, or even start a pull request.
+If you want to contribute or join the organization, please DM the manager via email, LinkedIn, or start a pull request.
 Feel free to email the manager: opengeosgithub@gmail.com
 
-## 👩‍💻 Useful resources 
-Right now, most of the resources is still underdeveloped.
-Many repo content is pretty good for programming beginners.
+## 👩‍💻 Useful resources
+Currently, most resources are still underdeveloped.
+Most of the repository content is quite suitable for programming beginners.
 
 ## 🍿 Fun facts & about the manager
+
 Zhanchao Yang
 
-Master of City Planning @ University of Pennsylvania
+> **Transportation Research Assistant**
+> *Master of City Planning & Master of Urban Spatial Analytics*
+> Department of City and Regional Planning
+> Weitzman School of Design
+> University of Pennsylvania
+
 
 Feel free to visit him [github](https://github.com/zyang91)
-
