@@ -33,7 +33,7 @@ Most of the repository content is quite suitable for programming beginners.
 
 Zhanchao Yang
 
-> **Transportation Research Assistant**
+> **Transportation Research Assistant** </br>
 > *Master of City Planning & Master of Urban Spatial Analytics* </br>
 > Department of City and Regional Planning </br>
 > Weitzman School of Design </br>
